@@ -1,0 +1,44 @@
+﻿Построение начато 13.06.2013 22:45:39.
+     1>Проект "C:\Склад\Projects\SCP-106\SCP-106.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SCP-106.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt engine.cpp Game.cpp Polygons.cpp Sound.cpp
+         Sound.cpp
+     1>c:\склад\projects\scp-106\sounds.h(91): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "int" (или приемлемое преобразование отсутствует)
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree(429): может быть "std::_Tree_iterator<_Mytree> &std::_Tree_iterator<_Mytree>::operator =(const std::_Tree_iterator<_Mytree> &)"
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<const char *,remSnd *,std::less<const char *>,std::allocator<std::pair<const char *const ,remSnd *>>,false>>
+                 ]
+                 при попытке сопоставить список аргументов "(std::_Tree_iterator<_Mytree>, int)"
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<const char *,remSnd *,std::less<const char *>,std::allocator<std::pair<const char *const ,remSnd *>>,false>>
+                 ]
+     1>c:\склад\projects\scp-106\sound.cpp(273): warning C4244: return: преобразование "std::streamsize" в "size_t", возможна потеря данных
+     1>c:\склад\projects\scp-106\sound.cpp(295): warning C4244: return: преобразование "std::streamoff" в "long", возможна потеря данных
+     1>c:\склад\projects\scp-106\sound.cpp(316): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\склад\projects\scp-106\sound.cpp(372): warning C4244: =: преобразование "ogg_int64_t" в "int", возможна потеря данных
+     1>c:\склад\projects\scp-106\sound.cpp(377): warning C4244: =: преобразование "ogg_int64_t" в "int", возможна потеря данных
+         Polygons.cpp
+         Game.cpp
+     1>c:\склад\projects\scp-106\sounds.h(91): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "int" (или приемлемое преобразование отсутствует)
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xtree(429): может быть "std::_Tree_iterator<_Mytree> &std::_Tree_iterator<_Mytree>::operator =(const std::_Tree_iterator<_Mytree> &)"
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<const char *,remSnd *,std::less<const char *>,std::allocator<std::pair<const char *const ,remSnd *>>,false>>
+                 ]
+                 при попытке сопоставить список аргументов "(std::_Tree_iterator<_Mytree>, int)"
+                 with
+                 [
+                     _Mytree=std::_Tree_val<std::_Tmap_traits<const char *,remSnd *,std::less<const char *>,std::allocator<std::pair<const char *const ,remSnd *>>,false>>
+                 ]
+     1>c:\склад\projects\scp-106\game.cpp(788): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         engine.cpp
+         Создание кода...
+     1>Построение проекта "C:\Склад\Projects\SCP-106\SCP-106.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:07.39

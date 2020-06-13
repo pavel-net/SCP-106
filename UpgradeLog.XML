@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SCP-106">
+</Property><Property Name="Файл решения" Value="C:\Склад\Projects\SCP-106\SCP-106.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Склад\Projects\SCP-106\SCP-106.suo">
+</Property><Property Name="Date" Value="1 июня 2013 г.">
+</Property><Property Name="Time" Value="1:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SCP-106.sln" Description="Успешно создана резервная копия файла C:\Склад\Projects\SCP-106\SCP-106.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="SCP-106.suo" Description="Успешно создана резервная копия файла C:\Склад\Projects\SCP-106\SCP-106.suo.old">
+</Event><Event ErrorLevel="0" Project="SCP-106" Source="SCP-106.vcproj" Description="Converting project file 'C:\Склад\Projects\SCP-106\SCP-106.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SCP-106" Source="SCP-106.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SCP-106" Source="SCP-106.vcproj" Description="Done converting to new project file 'C:\Склад\Projects\SCP-106\SCP-106.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SCP-106" Source="SCP-106.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SCP-106.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="SCP-106.sln" Description="Converted">
+</Event></UpgradeLog>

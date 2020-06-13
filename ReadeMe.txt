@@ -1,0 +1,22 @@
+////////SCP-106\\\\\\\\\
+
+Это игра посвящена проекту SCP.
+Вы попали в измерение объекта SCP-106, да да, именно. Ваша задача выжить!
+
+Алгоритм установки:
+1) Установите vcredist_x64.exe (или vcredist_x86.exe)
+2) Установите OpenAL11CoreSDK
+3) Вперёд играть
+
+По вопросам обращаться на: 	scp-106.game@mail.ru
+///////////////////////////////////////////////////////////////
+
+This game based on project SCP. You've come to the space of SCP-106, yes, yes,it is.
+Your task is to survive!
+
+For installing:
+1) Install vcredist_x64.exe (or vcredist_x86.exe)
+2) Install OpenAL11CoreSDK
+3) Go to play
+
+For questions on		scp-106.game@mail.ru
